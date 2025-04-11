@@ -4,7 +4,7 @@
 
 This project deploys a secure 3-tier web application on Azure, consisting of Frontend, Backend, and Database infrastructure. The architecture follows best practices for security, high availability, and scalability.
 
-![WEBAPP-CAPTURE](https://github.com/punitkashyup/3tier-Azure-Web-APP/assets/architecture.png)
+![WEBAPP-CAPTURE](/assets/architecture.png)
 
 ## Architecture
 
